@@ -4,5 +4,7 @@ public class App {
         System.out.println("commit 2!");
         System.out.println("commit 3 after merge!");
         //merge master con hotfix
+
+        // merge master con release
     }
 }
